@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizzrah.aternos.me",
+    "ip": "sigmarizzrah.aternos.me:37629",
     "port": 37629,
     "version": "1.21.11",
     "try-creative": false
