@@ -8,6 +8,7 @@
   "server": {
     "ip": "sigmarizzrah.aternos.me",
     "port": 27586,
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
